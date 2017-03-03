@@ -136,6 +136,7 @@ int main(void)
 						}
 					}
 				}
+			}
 			
 		}
 		
@@ -175,6 +176,7 @@ int main(void)
 				wait(NULL);
 			}
 		}
+	
 	}
 	
 	return 0;
